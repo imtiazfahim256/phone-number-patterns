@@ -1,0 +1,2717 @@
+[
+  {
+    "name": "Afghanistan",
+    "code": "AF",
+    "emoji": "🇦🇫",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/af.svg",
+    "dialCodes": [
+      "+93"
+    ],
+    "slug": "afghanistan",
+    "pattern": "7[0-9]{8}"
+  },
+  {
+    "name": "Albania",
+    "code": "AL",
+    "emoji": "🇦🇱",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/al.svg",
+    "dialCodes": [
+      "+355"
+    ],
+    "slug": "albania",
+    "pattern": "6[789][0-9]{7}"
+  },
+  {
+    "name": "Andorra",
+    "code": "AD",
+    "emoji": "🇦🇩",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ad.svg",
+    "dialCodes": [
+      "+376"
+    ],
+    "slug": "andorra",
+    "pattern": "[36][0-9]{5}"
+  },
+  {
+    "name": "Angola",
+    "code": "AO",
+    "emoji": "🇦🇴",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ao.svg",
+    "dialCodes": [
+      "+244"
+    ],
+    "slug": "angola",
+    "pattern": "9[0-9]{8}"
+  },
+  {
+    "name": "Anguilla",
+    "code": "AI",
+    "emoji": "🇦🇮",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ai.svg",
+    "dialCodes": [
+      "+1264"
+    ],
+    "slug": "anguilla",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Antarctica",
+    "code": "AQ",
+    "emoji": "🇦🇶",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/aq.svg",
+    "dialCodes": [
+      "+672"
+    ],
+    "slug": "antarctica",
+    "pattern": "[0-9]{6}"
+  },
+  {
+    "name": "Antigua & Barbuda",
+    "code": "AG",
+    "emoji": "🇦🇬",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ag.svg",
+    "dialCodes": [
+      "+1268"
+    ],
+    "slug": "antigua-and-barbuda",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Argentina",
+    "code": "AR",
+    "emoji": "🇦🇷",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ar.svg",
+    "dialCodes": [
+      "+54"
+    ],
+    "slug": "argentina",
+    "pattern": "9[1-9][0-9]{8}"
+  },
+  {
+    "name": "Armenia",
+    "code": "AM",
+    "emoji": "🇦🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/am.svg",
+    "dialCodes": [
+      "+374"
+    ],
+    "slug": "armenia",
+    "pattern": "[0-9]{8}"
+  },
+  {
+    "name": "Aruba",
+    "code": "AW",
+    "emoji": "🇦🇼",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/aw.svg",
+    "dialCodes": [
+      "+297"
+    ],
+    "slug": "aruba",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Ascension Island",
+    "code": "AC",
+    "emoji": "🇦🇨",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ac.svg",
+    "slug": "ascension-island",
+    "dialCodes": [
+      "+247"
+    ],
+    "pattern": "4[0-9]{3}"
+  },
+  {
+    "name": "Australia",
+    "code": "AU",
+    "emoji": "🇦🇺",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/au.svg",
+    "dialCodes": [
+      "+61"
+    ],
+    "slug": "australia",
+    "pattern": "4[0-9]{8}"
+  },
+  {
+    "name": "Austria",
+    "code": "AT",
+    "emoji": "🇦🇹",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/at.svg",
+    "dialCodes": [
+      "+43"
+    ],
+    "slug": "austria",
+    "pattern": "6[0-9]{8,10}"
+  },
+  {
+    "name": "Azerbaijan",
+    "code": "AZ",
+    "emoji": "🇦🇿",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/az.svg",
+    "dialCodes": [
+      "+994"
+    ],
+    "slug": "azerbaijan",
+    "pattern": "(?:50|51|55|70|77|99)[0-9]{7}"
+
+  },
+  {
+    "name": "Bahamas",
+    "code": "BS",
+    "emoji": "🇧🇸",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bs.svg",
+    "dialCodes": [
+      "+1242"
+    ],
+    "slug": "bahamas",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Bahrain",
+    "code": "BH",
+    "emoji": "🇧🇭",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bh.svg",
+    "dialCodes": [
+      "+973"
+    ],
+    "slug": "bahrain",
+    "pattern": "[36][0-9]{7}"
+  },
+  {
+    "name": "Bangladesh",
+    "code": "BD",
+    "emoji": "🇧🇩",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bd.svg",
+    "dialCodes": [
+      "+880"
+    ],
+    "slug": "bangladesh",
+    "pattern": "1[3-9][0-9]{8}"
+  },
+  {
+    "name": "Barbados",
+    "code": "BB",
+    "emoji": "🇧🇧",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bb.svg",
+    "dialCodes": [
+      "+1246"
+    ],
+    "slug": "barbados",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Belarus",
+    "code": "BY",
+    "emoji": "🇧🇾",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/by.svg",
+    "dialCodes": [
+      "+375"
+    ],
+    "slug": "belarus",
+    "pattern": "[2-4][0-9]{8}"
+  },
+  {
+    "name": "Belgium",
+    "code": "BE",
+    "emoji": "🇧🇪",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/be.svg",
+    "dialCodes": [
+      "+32"
+    ],
+    "slug": "belgium",
+    "pattern": "4[6-9][0-9]{7}"
+  },
+  {
+    "name": "Belize",
+    "code": "BZ",
+    "emoji": "🇧🇿",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bz.svg",
+    "dialCodes": [
+      "+501"
+    ],
+    "slug": "belize",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Benin",
+    "code": "BJ",
+    "emoji": "🇧🇯",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bj.svg",
+    "dialCodes": [
+      "+229"
+    ],
+    "slug": "benin",
+    "pattern": "[6-9][0-9]{7}"
+  },
+  {
+    "name": "Bermuda",
+    "code": "BM",
+    "emoji": "🇧🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bm.svg",
+    "dialCodes": [
+      "+1441"
+    ],
+    "slug": "bermuda",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Bhutan",
+    "code": "BT",
+    "emoji": "🇧🇹",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bt.svg",
+    "dialCodes": [
+      "+975"
+    ],
+    "slug": "bhutan",
+    "pattern": "[17][0-9]{7}"
+  },
+  {
+    "name": "Bolivia",
+    "code": "BO",
+    "emoji": "🇧🇴",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bo.svg",
+    "dialCodes": [
+      "+591"
+    ],
+    "slug": "bolivia",
+    "pattern": "[67][0-9]{7}"
+  },
+  {
+    "name": "Bosnia & Herzegovina",
+    "code": "BA",
+    "emoji": "🇧🇦",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ba.svg",
+    "dialCodes": [
+      "+387"
+    ],
+    "slug": "bosnia-and-herzegovina",
+    "pattern": "[0-9]{8,9}"
+  },
+  {
+    "name": "Botswana",
+    "code": "BW",
+    "emoji": "🇧🇼",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bw.svg",
+    "dialCodes": [
+      "+267"
+    ],
+    "slug": "botswana",
+    "pattern": "7[1-8][0-9]{6}"
+  },
+  {
+    "name": "Brazil",
+    "code": "BR",
+    "emoji": "🇧🇷",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/br.svg",
+    "dialCodes": [
+      "+55"
+    ],
+    "slug": "brazil",
+    "pattern": "[1-9][0-9]{9,10}"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "code": "IO",
+    "emoji": "🇮🇴",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/io.svg",
+    "slug": "british-indian-ocean-territory",
+    "pattern": "38[0-9]{5}"
+  },
+  {
+    "name": "Brunei",
+    "code": "BN",
+    "emoji": "🇧🇳",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bn.svg",
+    "dialCodes": [
+      "+673"
+    ],
+    "slug": "brunei",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Bulgaria",
+    "code": "BG",
+    "emoji": "🇧🇬",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bg.svg",
+    "dialCodes": [
+      "+359"
+    ],
+    "slug": "bulgaria",
+    "pattern": "[89][0-9]{8}"
+  },
+  {
+    "name": "Burkina Faso",
+    "code": "BF",
+    "emoji": "🇧🇫",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bf.svg",
+    "dialCodes": [
+      "+226"
+    ],
+    "slug": "burkina-faso",
+    "pattern": "[67][0-9]{7}"
+  },
+  {
+    "name": "Burundi",
+    "code": "BI",
+    "emoji": "🇧🇮",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bi.svg",
+    "dialCodes": [
+      "+257"
+    ],
+    "slug": "burundi",
+    "pattern": "[67][0-9]{7}"
+  },
+  {
+    "name": "Cabo Verde",
+    "code": "CV",
+    "emoji": "🇨🇻",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cv.svg",
+    "dialCodes": [
+      "+238"
+    ],
+    "slug": "cabo-verde",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Cambodia",
+    "code": "KH",
+    "emoji": "🇰🇭",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/kh.svg",
+    "dialCodes": [
+      "+855"
+    ],
+    "slug": "cambodia",
+    "pattern": "[1-9][0-9]{7,8}"
+  },
+  {
+    "name": "Cameroon",
+    "code": "CM",
+    "emoji": "🇨🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cm.svg",
+    "dialCodes": [
+      "+237"
+    ],
+    "slug": "cameroon",
+    "pattern": "6[0-9]{8}"
+  },
+  {
+    "name": "Canada",
+    "code": "CA",
+    "emoji": "🇨🇦",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ca.svg",
+    "dialCodes": [
+      "+1"
+    ],
+    "slug": "canada",
+    "pattern": "[2-9][0-9]{9}"
+  },
+  {
+    "name": "Cayman Islands",
+    "code": "KY",
+    "emoji": "🇰🇾",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ky.svg",
+    "dialCodes": [
+      "+1345"
+    ],
+    "slug": "cayman-islands",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Central African Republic",
+    "code": "CF",
+    "emoji": "🇨🇫",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cf.svg",
+    "dialCodes": [
+      "+236"
+    ],
+    "slug": "central-african-republic",
+    "pattern": "[0-9]{8}"
+  },
+  {
+    "name": "Chad",
+    "code": "TD",
+    "emoji": "🇹🇩",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/td.svg",
+    "dialCodes": [
+      "+235"
+    ],
+    "slug": "chad",
+    "pattern": "[69][0-9]{7}"
+  },
+  {
+    "name": "Chile",
+    "code": "CL",
+    "emoji": "🇨🇱",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cl.svg",
+    "dialCodes": [
+      "+56"
+    ],
+    "slug": "chile",
+    "pattern": "9[0-9]{8}"
+  },
+  {
+    "name": "China",
+    "code": "CN",
+    "emoji": "🇨🇳",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cn.svg",
+    "dialCodes": [
+      "+86"
+    ],
+    "slug": "china",
+    "pattern": "1[3-9][0-9]{9}"
+  },
+  {
+    "name": "Christmas Island",
+    "code": "CX",
+    "emoji": "🇨🇽",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cx.svg",
+    "slug": "christmas-island",
+    "dialCodes": ["+61"],
+    "pattern": "4[0-9]{8}"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "code": "CC",
+    "emoji": "🇨🇨",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cc.svg",
+    "slug": "cocos-(keeling)-islands",
+    "dialCodes": ["+61"],
+    "pattern": "4[0-9]{8}"
+  },
+  {
+    "name": "Colombia",
+    "code": "CO",
+    "emoji": "🇨🇴",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/co.svg",
+    "dialCodes": [
+      "+57"
+    ],
+    "slug": "colombia",
+    "pattern": "3[0-9]{9}"
+  },
+  {
+    "name": "Comoros",
+    "code": "KM",
+    "emoji": "🇰🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/km.svg",
+    "dialCodes": [
+      "+269"
+    ],
+    "slug": "comoros",
+    "pattern": "[34][0-9]{6}"
+  },
+  {
+    "name": "Congo - Brazzaville",
+    "code": "CG",
+    "emoji": "🇨🇬",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cg.svg",
+    "dialCodes": [
+      "+242"
+    ],
+    "slug": "congo-brazzaville",
+    "pattern": "[0-9]{8}"
+  },
+  {
+    "name": "Congo - Kinshasa",
+    "code": "CD",
+    "emoji": "🇨🇩",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cd.svg",
+    "dialCodes": [
+      "+243"
+    ],
+    "slug": "congo-kinshasa",
+    "pattern": "[0-9]{8,9}"
+  },
+  {
+    "name": "Cook Islands",
+    "code": "CK",
+    "emoji": "🇨🇰",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ck.svg",
+    "dialCodes": [
+      "+682"
+    ],
+    "slug": "cook-islands",
+    "pattern": "[0-9]{5}"
+  },
+  {
+    "name": "Costa Rica",
+    "code": "CR",
+    "emoji": "🇨🇷",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cr.svg",
+    "dialCodes": [
+      "+506"
+    ],
+    "slug": "costa-rica",
+    "pattern": "[6-9][0-9]{7}"
+  },
+  {
+    "name": "Croatia",
+    "code": "HR",
+    "emoji": "🇭🇷",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/hr.svg",
+    "dialCodes": [
+      "+385"
+    ],
+    "slug": "croatia",
+    "pattern": "9[0-9]{8}"
+  },
+  {
+    "name": "Cuba",
+    "code": "CU",
+    "emoji": "🇨🇺",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cu.svg",
+    "dialCodes": [
+      "+53"
+    ],
+    "slug": "cuba",
+    "pattern": "5[0-9]{7}"
+  },
+  {
+    "name": "Curaçao",
+    "code": "CW",
+    "emoji": "🇨🇼",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cw.svg",
+    "dialCodes": [
+      "+599"
+    ],
+    "slug": "curacao",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Cyprus",
+    "code": "CY",
+    "emoji": "🇨🇾",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cy.svg",
+    "dialCodes": [
+      "+357"
+    ],
+    "slug": "cyprus",
+    "pattern": "9[5-9][0-9]{6}"
+  },
+  {
+    "name": "Czechia",
+    "code": "CZ",
+    "emoji": "🇨🇿",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cz.svg",
+    "dialCodes": [
+      "+420"
+    ],
+    "slug": "czechia",
+    "pattern": "[0-9]{9}"
+  },
+  {
+    "name": "Côte d’Ivoire",
+    "code": "CI",
+    "emoji": "🇨🇮",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ci.svg",
+    "dialCodes": [
+      "+225"
+    ],
+    "slug": "cote-d'ivoire",
+    "pattern": "[0-9]{8}"
+  },
+  {
+    "name": "Denmark",
+    "code": "DK",
+    "emoji": "🇩🇰",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/dk.svg",
+    "dialCodes": [
+      "+45"
+    ],
+    "slug": "denmark",
+    "pattern": "[2-9][0-9]{7}"
+  },
+  {
+    "name": "Djibouti",
+    "code": "DJ",
+    "emoji": "🇩🇯",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/dj.svg",
+    "dialCodes": [
+      "+253"
+    ],
+    "slug": "djibouti",
+    "pattern": "77[0-9]{6}"
+  },
+  {
+    "name": "Dominica",
+    "code": "DM",
+    "emoji": "🇩🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/dm.svg",
+    "dialCodes": [
+      "+1767"
+    ],
+    "slug": "dominica",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Dominican Republic",
+    "code": "DO",
+    "emoji": "🇩🇴",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/do.svg",
+    "dialCodes": [
+      "+1809",
+      "+1829",
+      "+1849"
+    ],
+    "slug": "dominican-republic",
+    "pattern": "[2-9][0-9]{9}"
+  },
+  {
+    "name": "Ecuador",
+    "code": "EC",
+    "emoji": "🇪🇨",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ec.svg",
+    "dialCodes": [
+      "+593"
+    ],
+    "slug": "ecuador",
+    "pattern": "9[0-9]{8}"
+  },
+  {
+    "name": "Egypt",
+    "code": "EG",
+    "emoji": "🇪🇬",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/eg.svg",
+    "dialCodes": [
+      "+20"
+    ],
+    "slug": "egypt",
+    "pattern": "1[0125][0-9]{8}"
+  },
+  {
+    "name": "El Salvador",
+    "code": "SV",
+    "emoji": "🇸🇻",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sv.svg",
+    "dialCodes": [
+      "+503"
+    ],
+    "slug": "el-salvador",
+    "pattern": "[67][0-9]{7}"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "code": "GQ",
+    "emoji": "🇬🇶",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gq.svg",
+    "dialCodes": [
+      "+240"
+    ],
+    "slug": "equatorial-guinea",
+    "pattern": "[235][0-9]{8}"
+  },
+  {
+    "name": "Eritrea",
+    "code": "ER",
+    "emoji": "🇪🇷",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/er.svg",
+    "dialCodes": [
+      "+291"
+    ],
+    "slug": "eritrea",
+    "pattern": "7[0-9]{6}"
+  },
+  {
+    "name": "Estonia",
+    "code": "EE",
+    "emoji": "🇪🇪",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ee.svg",
+    "dialCodes": [
+      "+372"
+    ],
+    "slug": "estonia",
+    "pattern": "5[0-9]{7}"
+  },
+  {
+    "name": "Eswatini",
+    "code": "SZ",
+    "emoji": "🇸🇿",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sz.svg",
+    "dialCodes": [
+      "+268"
+    ],
+    "slug": "eswatini",
+    "pattern": "7[6-8][0-9]{6}"
+  },
+  {
+    "name": "Ethiopia",
+    "code": "ET",
+    "emoji": "🇪🇹",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/et.svg",
+    "dialCodes": [
+      "+251"
+    ],
+    "slug": "ethiopia",
+    "pattern": "9[0-9]{8}"
+  },
+  {
+    "name": "Falkland Islands",
+    "code": "FK",
+    "emoji": "🇫🇰",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/fk.svg",
+    "dialCodes": [
+      "+500"
+    ],
+    "slug": "falkland-islands",
+    "pattern": "[0-9]{5}"
+  },
+  {
+    "name": "Faroe Islands",
+    "code": "FO",
+    "emoji": "🇫🇴",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/fo.svg",
+    "dialCodes": [
+      "+298"
+    ],
+    "slug": "faroe-islands",
+    "pattern": "[0-9]{6}"
+  },
+  {
+    "name": "Fiji",
+    "code": "FJ",
+    "emoji": "🇫🇯",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/fj.svg",
+    "dialCodes": [
+      "+679"
+    ],
+    "slug": "fiji",
+    "pattern": "[789][0-9]{6}"
+  },
+  {
+    "name": "Finland",
+    "code": "FI",
+    "emoji": "🇫🇮",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/fi.svg",
+    "dialCodes": [
+      "+358"
+    ],
+    "slug": "finland",
+    "pattern": "4[0-9]{8}"
+  },
+  {
+    "name": "France",
+    "code": "FR",
+    "emoji": "🇫🇷",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/fr.svg",
+    "dialCodes": [
+      "+33"
+    ],
+    "slug": "france",
+    "pattern": "[67][0-9]{8}"
+  },
+  {
+    "name": "French Guiana",
+    "code": "GF",
+    "emoji": "🇬🇫",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gf.svg",
+    "dialCodes": [
+      "+594"
+    ],
+    "slug": "french-guiana",
+    "pattern": "[0-9]{9}"
+  },
+  {
+    "name": "French Polynesia",
+    "code": "PF",
+    "emoji": "🇵🇫",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/pf.svg",
+    "dialCodes": [
+      "+689"
+    ],
+    "slug": "french-polynesia",
+    "pattern": "[0-9]{8}"
+  },
+  {
+    "name": "French Southern Territories",
+    "code": "TF",
+    "emoji": "🇹🇫",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/tf.svg",
+    "slug": "french-southern-territories",
+    "pattern": "[0-9]{6}"
+  },
+  {
+    "name": "Gabon",
+    "code": "GA",
+    "emoji": "🇬🇦",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ga.svg",
+    "dialCodes": [
+      "+241"
+    ],
+    "slug": "gabon",
+    "pattern": "[0-9]{8}"
+  },
+  {
+    "name": "Gambia",
+    "code": "GM",
+    "emoji": "🇬🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gm.svg",
+    "dialCodes": [
+      "+220"
+    ],
+    "slug": "gambia",
+    "pattern": "[2-9][0-9]{6}"
+  },
+  {
+    "name": "Georgia",
+    "code": "GE",
+    "emoji": "🇬🇪",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ge.svg",
+    "dialCodes": [
+      "+995"
+    ],
+    "slug": "georgia",
+    "pattern": "5[0-9]{8}"
+  },
+  {
+    "name": "Germany",
+    "code": "DE",
+    "emoji": "🇩🇪",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/de.svg",
+    "dialCodes": [
+      "+49"
+    ],
+    "slug": "germany",
+    "pattern": "1[5-7][0-9]{8,9}"
+  },
+  {
+    "name": "Ghana",
+    "code": "GH",
+    "emoji": "🇬🇭",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gh.svg",
+    "dialCodes": [
+      "+233"
+    ],
+    "slug": "ghana",
+    "pattern": "[2-5][0-9]{8}"
+  },
+  {
+    "name": "Gibraltar",
+    "code": "GI",
+    "emoji": "🇬🇮",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gi.svg",
+    "dialCodes": [
+      "+350"
+    ],
+    "slug": "gibraltar",
+    "pattern": "[0-9]{8}"
+  },
+  {
+    "name": "Greece",
+    "code": "GR",
+    "emoji": "🇬🇷",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gr.svg",
+    "dialCodes": [
+      "+30"
+    ],
+    "slug": "greece",
+    "pattern": "69[0-9]{8}"
+  },
+  {
+    "name": "Greenland",
+    "code": "GL",
+    "emoji": "🇬🇱",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gl.svg",
+    "dialCodes": [
+      "+299"
+    ],
+    "slug": "greenland",
+    "pattern": "[0-9]{6}"
+  },
+  {
+    "name": "Grenada",
+    "code": "GD",
+    "emoji": "🇬🇩",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gd.svg",
+    "dialCodes": [
+      "+1473"
+    ],
+    "slug": "grenada",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Guadeloupe",
+    "code": "GP",
+    "emoji": "🇬🇵",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gp.svg",
+    "dialCodes": [
+      "+590"
+    ],
+    "slug": "guadeloupe",
+    "pattern": "[0-9]{9}"
+  },
+  {
+    "name": "Guam",
+    "code": "GU",
+    "emoji": "🇬🇺",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gu.svg",
+    "dialCodes": [
+      "+1671"
+    ],
+    "slug": "guam",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Guatemala",
+    "code": "GT",
+    "emoji": "🇬🇹",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gt.svg",
+    "dialCodes": [
+      "+502"
+    ],
+    "slug": "guatemala",
+    "pattern": "[4-5][0-9]{7}"
+  },
+  {
+    "name": "Guernsey",
+    "code": "GG",
+    "emoji": "🇬🇬",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gg.svg",
+    "dialCodes": [
+      "+44"
+    ],
+    "slug": "guernsey",
+    "pattern": "[0-9]{10}"
+  },
+  {
+    "name": "Guinea",
+    "code": "GN",
+    "emoji": "🇬🇳",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gn.svg",
+    "dialCodes": [
+      "+224"
+    ],
+    "slug": "guinea",
+    "pattern": "6[0-9]{7}"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "code": "GW",
+    "emoji": "🇬🇼",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gw.svg",
+    "dialCodes": [
+      "+245"
+    ],
+    "slug": "guinea-bissau",
+    "pattern": "[5-7][0-9]{6}"
+  },
+  {
+    "name": "Guyana",
+    "code": "GY",
+    "emoji": "🇬🇾",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gy.svg",
+    "dialCodes": [
+      "+592"
+    ],
+    "slug": "guyana",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Haiti",
+    "code": "HT",
+    "emoji": "🇭🇹",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ht.svg",
+    "dialCodes": [
+      "+509"
+    ],
+    "slug": "haiti",
+    "pattern": "[34][0-9]{7}"
+  },
+  {
+    "name": "Heard & McDonald Islands",
+    "code": "HM",
+    "emoji": "🇭🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/hm.svg",
+    "slug": "heard-and-mcdonald-islands",
+    "pattern": "[0-9]{6}"
+  },
+  {
+    "name": "Honduras",
+    "code": "HN",
+    "emoji": "🇭🇳",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/hn.svg",
+    "dialCodes": [
+      "+504"
+    ],
+    "slug": "honduras",
+    "pattern": "[789][0-9]{7}"
+  },
+  {
+    "name": "Hong Kong SAR China",
+    "code": "HK",
+    "emoji": "🇭🇰",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/hk.svg",
+    "dialCodes": [
+      "+852"
+    ],
+    "slug": "hong-kong-sar-china",
+    "pattern": "[0-9]{8}"
+  },
+  {
+    "name": "Hungary",
+    "code": "HU",
+    "emoji": "🇭🇺",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/hu.svg",
+    "dialCodes": [
+      "+36"
+    ],
+    "slug": "hungary",
+    "pattern": "[237][0-9]{8}"
+  },
+  {
+    "name": "Iceland",
+    "code": "IS",
+    "emoji": "🇮🇸",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/is.svg",
+    "dialCodes": [
+      "+354"
+    ],
+    "slug": "iceland",
+    "pattern": "[6-9][0-9]{6}"
+  },
+  {
+    "name": "India",
+    "code": "IN",
+    "emoji": "🇮🇳",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/in.svg",
+    "dialCodes": [
+      "+91"
+    ],
+    "slug": "india",
+    "pattern": "[6-9][0-9]{9}"
+  },
+  {
+    "name": "Indonesia",
+    "code": "ID",
+    "emoji": "🇮🇩",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/id.svg",
+    "dialCodes": [
+      "+62"
+    ],
+    "slug": "indonesia",
+    "pattern": "8[1-9][0-9]{7,10}"
+  },
+  {
+    "name": "Iran",
+    "code": "IR",
+    "emoji": "🇮🇷",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ir.svg",
+    "dialCodes": [
+      "+98"
+    ],
+    "slug": "iran",
+    "pattern": "9[0-9]{9}"
+  },
+  {
+    "name": "Iraq",
+    "code": "IQ",
+    "emoji": "🇮🇶",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/iq.svg",
+    "dialCodes": [
+      "+964"
+    ],
+    "slug": "iraq",
+    "pattern": "7[5-9][0-9]{8}"
+  },
+  {
+    "name": "Ireland",
+    "code": "IE",
+    "emoji": "🇮🇪",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ie.svg",
+    "dialCodes": [
+      "+353"
+    ],
+    "slug": "ireland",
+    "pattern": "8[35679][0-9]{7}"
+  },
+  {
+    "name": "Isle of Man",
+    "code": "IM",
+    "emoji": "🇮🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/im.svg",
+    "dialCodes": [
+      "+44"
+    ],
+    "slug": "isle-of-man",
+    "pattern": "[0-9]{10}"
+  },
+  {
+    "name": "Israel",
+    "code": "IL",
+    "emoji": "🇮🇱",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/il.svg",
+    "dialCodes": [
+      "+972"
+    ],
+    "slug": "israel",
+    "pattern": "5[0-9]{8}"
+  },
+  {
+    "name": "Italy",
+    "code": "IT",
+    "emoji": "🇮🇹",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/it.svg",
+    "dialCodes": [
+      "+39"
+    ],
+    "slug": "italy",
+    "pattern": "3[0-9]{8,9}"
+  },
+  {
+    "name": "Jamaica",
+    "code": "JM",
+    "emoji": "🇯🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/jm.svg",
+    "dialCodes": [
+      "+1876"
+    ],
+    "slug": "jamaica",
+    "pattern": "[2-9][0-9]{9}"
+  },
+  {
+    "name": "Japan",
+    "code": "JP",
+    "emoji": "🇯🇵",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/jp.svg",
+    "dialCodes": [
+      "+81"
+    ],
+    "slug": "japan",
+    "pattern": "[7-9][0-9]{9}"
+  },
+  {
+    "name": "Jersey",
+    "code": "JE",
+    "emoji": "🇯🇪",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/je.svg",
+    "dialCodes": [
+      "+44"
+    ],
+    "slug": "jersey",
+    "pattern": "[0-9]{10}"
+  },
+  {
+    "name": "Jordan",
+    "code": "JO",
+    "emoji": "🇯🇴",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/jo.svg",
+    "dialCodes": [
+      "+962"
+    ],
+    "slug": "jordan",
+    "pattern": "7[789][0-9]{7}"
+  },
+  {
+    "name": "Kazakhstan",
+    "code": "KZ",
+    "emoji": "🇰🇿",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/kz.svg",
+    "dialCodes": [
+      "+7"
+    ],
+    "slug": "kazakhstan",
+    "pattern": "7[0-9]{9}"
+  },
+  {
+    "name": "Kenya",
+    "code": "KE",
+    "emoji": "🇰🇪",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ke.svg",
+    "dialCodes": [
+      "+254"
+    ],
+    "slug": "kenya",
+    "pattern": "7[0-9]{8}"
+  },
+  {
+    "name": "Kiribati",
+    "code": "KI",
+    "emoji": "🇰🇮",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ki.svg",
+    "dialCodes": [
+      "+686"
+    ],
+    "slug": "kiribati",
+    "pattern": "[0-9]{5}"
+  },
+  {
+    "name": "Kosovo",
+    "code": "XK",
+    "emoji": "🇽🇰",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/xk.svg",
+    "dialCodes": [
+      "+383"
+    ],
+    "slug": "kosovo",
+    "pattern": "[0-9]{8}"
+  },
+  {
+    "name": "Kuwait",
+    "code": "KW",
+    "emoji": "🇰🇼",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/kw.svg",
+    "dialCodes": [
+      "+965"
+    ],
+    "slug": "kuwait",
+    "pattern": "[569][0-9]{7}"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "code": "KG",
+    "emoji": "🇰🇬",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/kg.svg",
+    "dialCodes": [
+      "+996"
+    ],
+    "slug": "kyrgyzstan",
+    "pattern": "[25-9][0-9]{8}"
+  },
+  {
+    "name": "Laos",
+    "code": "LA",
+    "emoji": "🇱🇦",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/la.svg",
+    "dialCodes": [
+      "+856"
+    ],
+    "slug": "laos",
+    "pattern": "20[0-9]{8}"
+  },
+  {
+    "name": "Latvia",
+    "code": "LV",
+    "emoji": "🇱🇻",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/lv.svg",
+    "dialCodes": [
+      "+371"
+    ],
+    "slug": "latvia",
+    "pattern": "2[0-9]{7}"
+  },
+  {
+    "name": "Lebanon",
+    "code": "LB",
+    "emoji": "🇱🇧",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/lb.svg",
+    "dialCodes": [
+      "+961"
+    ],
+    "slug": "lebanon",
+    "pattern": "[37][0-9]{7}"
+  },
+  {
+    "name": "Lesotho",
+    "code": "LS",
+    "emoji": "🇱🇸",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ls.svg",
+    "dialCodes": [
+      "+266"
+    ],
+    "slug": "lesotho",
+    "pattern": "[56][0-9]{7}"
+  },
+  {
+    "name": "Liberia",
+    "code": "LR",
+    "emoji": "🇱🇷",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/lr.svg",
+    "dialCodes": [
+      "+231"
+    ],
+    "slug": "liberia",
+    "pattern": "[4-9][0-9]{7}"
+  },
+  {
+    "name": "Libya",
+    "code": "LY",
+    "emoji": "🇱🇾",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ly.svg",
+    "dialCodes": [
+      "+218"
+    ],
+    "slug": "libya",
+    "pattern": "9[1-6][0-9]{7}"
+  },
+  {
+    "name": "Liechtenstein",
+    "code": "LI",
+    "emoji": "🇱🇮",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/li.svg",
+    "dialCodes": [
+      "+423"
+    ],
+    "slug": "liechtenstein",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Lithuania",
+    "code": "LT",
+    "emoji": "🇱🇹",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/lt.svg",
+    "dialCodes": [
+      "+370"
+    ],
+    "slug": "lithuania",
+    "pattern": "6[0-9]{7}"
+  },
+  {
+    "name": "Luxembourg",
+    "code": "LU",
+    "emoji": "🇱🇺",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/lu.svg",
+    "dialCodes": [
+      "+352"
+    ],
+    "slug": "luxembourg",
+    "pattern": "6[0-9]{8}"
+  },
+  {
+    "name": "Macao SAR China",
+    "code": "MO",
+    "emoji": "🇲🇴",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mo.svg",
+    "dialCodes": [
+      "+853"
+    ],
+    "slug": "macao-sar-china",
+    "pattern": "[0-9]{8}"
+  },
+  {
+    "name": "Madagascar",
+    "code": "MG",
+    "emoji": "🇲🇬",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mg.svg",
+    "dialCodes": [
+      "+261"
+    ],
+    "slug": "madagascar",
+    "pattern": "3[0-9]{8}"
+  },
+  {
+    "name": "Malawi",
+    "code": "MW",
+    "emoji": "🇲🇼",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mw.svg",
+    "dialCodes": [
+      "+265"
+    ],
+    "slug": "malawi",
+    "pattern": "[18][0-9]{7}"
+  },
+  {
+    "name": "Malaysia",
+    "code": "MY",
+    "emoji": "🇲🇾",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/my.svg",
+    "dialCodes": [
+      "+60"
+    ],
+    "slug": "malaysia",
+    "pattern": "1[0-9]{8,9}"
+  },
+  {
+    "name": "Maldives",
+    "code": "MV",
+    "emoji": "🇲🇻",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mv.svg",
+    "dialCodes": [
+      "+960"
+    ],
+    "slug": "maldives",
+    "pattern": "[79][0-9]{6}"
+  },
+  {
+    "name": "Mali",
+    "code": "ML",
+    "emoji": "🇲🇱",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ml.svg",
+    "dialCodes": [
+      "+223"
+    ],
+    "slug": "mali",
+    "pattern": "[6-9][0-9]{7}"
+  },
+  {
+    "name": "Malta",
+    "code": "MT",
+    "emoji": "🇲🇹",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mt.svg",
+    "dialCodes": [
+      "+356"
+    ],
+    "slug": "malta",
+    "pattern": "[79][0-9]{7}"
+  },
+  {
+    "name": "Marshall Islands",
+    "code": "MH",
+    "emoji": "🇲🇭",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mh.svg",
+    "dialCodes": [
+      "+692"
+    ],
+    "slug": "marshall-islands",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Martinique",
+    "code": "MQ",
+    "emoji": "🇲🇶",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mq.svg",
+    "dialCodes": [
+      "+596"
+    ],
+    "slug": "martinique",
+    "pattern": "[0-9]{9}"
+  },
+  {
+    "name": "Mauritania",
+    "code": "MR",
+    "emoji": "🇲🇷",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mr.svg",
+    "dialCodes": [
+      "+222"
+    ],
+    "slug": "mauritania",
+    "pattern": "[2-4][0-9]{7}"
+  },
+  {
+    "name": "Mauritius",
+    "code": "MU",
+    "emoji": "🇲🇺",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mu.svg",
+    "dialCodes": [
+      "+230"
+    ],
+    "slug": "mauritius",
+    "pattern": "5[0-9]{7}"
+  },
+  {
+    "name": "Mayotte",
+    "code": "YT",
+    "emoji": "🇾🇹",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/yt.svg",
+    "dialCodes": [
+      "+262"
+    ],
+    "slug": "mayotte",
+    "pattern": "[0-9]{9}"
+  },
+  {
+    "name": "Mexico",
+    "code": "MX",
+    "emoji": "🇲🇽",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mx.svg",
+    "dialCodes": [
+      "+52"
+    ],
+    "slug": "mexico",
+    "pattern": "1[0-9]{10}"
+  },
+  {
+    "name": "Micronesia",
+    "code": "FM",
+    "emoji": "🇫🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/fm.svg",
+    "dialCodes": [
+      "+691"
+    ],
+    "slug": "micronesia",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Moldova",
+    "code": "MD",
+    "emoji": "🇲🇩",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/md.svg",
+    "dialCodes": [
+      "+373"
+    ],
+    "slug": "moldova",
+    "pattern": "[67][0-9]{7}"
+  },
+  {
+    "name": "Monaco",
+    "code": "MC",
+    "emoji": "🇲🇨",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mc.svg",
+    "dialCodes": [
+      "+377"
+    ],
+    "slug": "monaco",
+    "pattern": "[46][0-9]{7}"
+  },
+  {
+    "name": "Mongolia",
+    "code": "MN",
+    "emoji": "🇲🇳",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mn.svg",
+    "dialCodes": [
+      "+976"
+    ],
+    "slug": "mongolia",
+    "pattern": "[8-9][0-9]{7}"
+  },
+  {
+    "name": "Montenegro",
+    "code": "ME",
+    "emoji": "🇲🇪",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/me.svg",
+    "dialCodes": [
+      "+382"
+    ],
+    "slug": "montenegro",
+    "pattern": "6[7-9][0-9]{6}"
+  },
+  {
+    "name": "Montserrat",
+    "code": "MS",
+    "emoji": "🇲🇸",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ms.svg",
+    "dialCodes": [
+      "+1 664"
+    ],
+    "slug": "montserrat",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Morocco",
+    "code": "MA",
+    "emoji": "🇲🇦",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ma.svg",
+    "dialCodes": [
+      "+212"
+    ],
+    "slug": "morocco",
+    "pattern": "[6-7][0-9]{8}"
+  },
+  {
+    "name": "Mozambique",
+    "code": "MZ",
+    "emoji": "🇲🇿",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mz.svg",
+    "dialCodes": [
+      "+258"
+    ],
+    "slug": "mozambique",
+    "pattern": "8[2-7][0-9]{7}"
+  },
+  {
+    "name": "Myanmar (Burma)",
+    "code": "MM",
+    "emoji": "🇲🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mm.svg",
+    "dialCodes": [
+      "+95"
+    ],
+    "slug": "myanmar-(burma)",
+    "pattern": "[0-9]{8,9}"
+  },
+  {
+    "name": "Namibia",
+    "code": "NA",
+    "emoji": "🇳🇦",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/na.svg",
+    "dialCodes": [
+      "+264"
+    ],
+    "slug": "namibia",
+    "pattern": "8[1-5][0-9]{7}"
+  },
+  {
+    "name": "Nauru",
+    "code": "NR",
+    "emoji": "🇳🇷",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/nr.svg",
+    "dialCodes": [
+      "+674"
+    ],
+    "slug": "nauru",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Nepal",
+    "code": "NP",
+    "emoji": "🇳🇵",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/np.svg",
+    "dialCodes": [
+      "+977"
+    ],
+    "slug": "nepal",
+    "pattern": "9[6-8][0-9]{8}"
+  },
+  {
+    "name": "Netherlands",
+    "code": "NL",
+    "emoji": "🇳🇱",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/nl.svg",
+    "dialCodes": [
+      "+31"
+    ],
+    "slug": "netherlands",
+    "pattern": "6[0-9]{8}"
+  },
+  {
+    "name": "New Caledonia",
+    "code": "NC",
+    "emoji": "🇳🇨",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/nc.svg",
+    "dialCodes": [
+      "+687"
+    ],
+    "slug": "new-caledonia",
+    "pattern": "[0-9]{6}"
+  },
+  {
+    "name": "New Zealand",
+    "code": "NZ",
+    "emoji": "🇳🇿",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/nz.svg",
+    "dialCodes": [
+      "+64"
+    ],
+    "slug": "new-zealand",
+    "pattern": "2[1-9][0-9]{7}"
+  },
+  {
+    "name": "Nicaragua",
+    "code": "NI",
+    "emoji": "🇳🇮",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ni.svg",
+    "dialCodes": [
+      "+505"
+    ],
+    "slug": "nicaragua",
+    "pattern": "[5-8][0-9]{7}"
+  },
+  {
+    "name": "Niger",
+    "code": "NE",
+    "emoji": "🇳🇪",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ne.svg",
+    "dialCodes": [
+      "+227"
+    ],
+    "slug": "niger",
+    "pattern": "[679][0-9]{7}"
+  },
+  {
+    "name": "Nigeria",
+    "code": "NG",
+    "emoji": "🇳🇬",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ng.svg",
+    "dialCodes": [
+      "+234"
+    ],
+    "slug": "nigeria",
+    "pattern": "[7-9][0-9]{9}"
+  },
+  {
+    "name": "Niue",
+    "code": "NU",
+    "emoji": "🇳🇺",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/nu.svg",
+    "dialCodes": [
+      "+683"
+    ],
+    "slug": "niue",
+    "pattern": "[0-9]{4}"
+  },
+  {
+    "name": "Norfolk Island",
+    "code": "NF",
+    "emoji": "🇳🇫",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/nf.svg",
+    "dialCodes": [
+      "+672"
+    ],
+    "slug": "norfolk-island",
+    "pattern": "[0-9]{6}"
+  },
+  {
+    "name": "North Korea",
+    "code": "KP",
+    "emoji": "🇰🇵",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/kp.svg",
+    "dialCodes": [
+      "+850"
+    ],
+    "slug": "north-korea",
+    "pattern": "[0-9]{8,9}"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "code": "MP",
+    "emoji": "🇲🇵",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mp.svg",
+    "dialCodes": [
+      "+1 670"
+    ],
+    "slug": "northern-mariana-islands",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Norway",
+    "code": "NO",
+    "emoji": "🇳🇴",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/no.svg",
+    "dialCodes": [
+      "+47"
+    ],
+    "slug": "norway",
+    "pattern": "[49][0-9]{7}"
+  },
+  {
+    "name": "Oman",
+    "code": "OM",
+    "emoji": "🇴🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/om.svg",
+    "dialCodes": [
+      "+968"
+    ],
+    "slug": "oman",
+    "pattern": "[79][0-9]{7}"
+  },
+  {
+    "name": "Pakistan",
+    "code": "PK",
+    "emoji": "🇵🇰",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/pk.svg",
+    "dialCodes": [
+      "+92"
+    ],
+    "slug": "pakistan",
+    "pattern": "3[0-9]{9}"
+  },
+  {
+    "name": "Palau",
+    "code": "PW",
+    "emoji": "🇵🇼",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/pw.svg",
+    "dialCodes": [
+      "+680"
+    ],
+    "slug": "palau",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Palestinian Territories",
+    "code": "PS",
+    "emoji": "🇵🇸",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ps.svg",
+    "dialCodes": [
+      "+970"
+    ],
+    "slug": "palestinian-territories",
+    "pattern": "[0-9]{9}"
+  },
+  {
+    "name": "Panama",
+    "code": "PA",
+    "emoji": "🇵🇦",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/pa.svg",
+    "dialCodes": [
+      "+507"
+    ],
+    "slug": "panama",
+    "pattern": "[6-9][0-9]{7}"
+  },
+  {
+    "name": "Papua New Guinea",
+    "code": "PG",
+    "emoji": "🇵🇬",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/pg.svg",
+    "dialCodes": [
+      "+675"
+    ],
+    "slug": "papua-new-guinea",
+    "pattern": "[67][0-9]{7}"
+  },
+  {
+    "name": "Paraguay",
+    "code": "PY",
+    "emoji": "🇵🇾",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/py.svg",
+    "dialCodes": [
+      "+595"
+    ],
+    "slug": "paraguay",
+    "pattern": "9[6-9][0-9]{7}"
+  },
+  {
+    "name": "Peru",
+    "code": "PE",
+    "emoji": "🇵🇪",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/pe.svg",
+    "dialCodes": [
+      "+51"
+    ],
+    "slug": "peru",
+    "pattern": "9[0-9]{8}"
+  },
+  {
+    "name": "Philippines",
+    "code": "PH",
+    "emoji": "🇵🇭",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ph.svg",
+    "dialCodes": [
+      "+63"
+    ],
+    "slug": "philippines",
+    "pattern": "9[0-9]{9}"
+  },
+  {
+    "name": "Pitcairn Islands",
+    "code": "PN",
+    "emoji": "🇵🇳",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/pn.svg",
+    "dialCodes": [
+      "+64"
+    ],
+    "slug": "pitcairn-islands",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Poland",
+    "code": "PL",
+    "emoji": "🇵🇱",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/pl.svg",
+    "dialCodes": [
+      "+48"
+    ],
+    "slug": "poland",
+    "pattern": "[5-8][0-9]{8}"
+  },
+  {
+    "name": "Portugal",
+    "code": "PT",
+    "emoji": "🇵🇹",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/pt.svg",
+    "dialCodes": [
+      "+351"
+    ],
+    "slug": "portugal",
+    "pattern": "9[1236][0-9]{7}"
+  },
+  {
+    "name": "Puerto Rico",
+    "code": "PR",
+    "emoji": "🇵🇷",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/pr.svg",
+    "dialCodes": [
+      "+1 787"
+    ],
+    "slug": "puerto-rico",
+    "pattern": "[0-9]{10}"
+  },
+  {
+    "name": "Qatar",
+    "code": "QA",
+    "emoji": "🇶🇦",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/qa.svg",
+    "dialCodes": [
+      "+974"
+    ],
+    "slug": "qatar",
+    "pattern": "[3567][0-9]{7}"
+  },
+  {
+    "name": "Réunion",
+    "code": "RE",
+    "emoji": "🇷🇪",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/re.svg",
+    "dialCodes": [
+      "+262"
+    ],
+    "slug": "reunion",
+    "pattern": "[0-9]{9}"
+  },
+  {
+    "name": "Romania",
+    "code": "RO",
+    "emoji": "🇷🇴",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ro.svg",
+    "dialCodes": [
+      "+40"
+    ],
+    "slug": "romania",
+    "pattern": "7[0-9]{8}"
+  },
+  {
+    "name": "Russia",
+    "code": "RU",
+    "emoji": "🇷🇺",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ru.svg",
+    "dialCodes": [
+      "+7"
+    ],
+    "slug": "russia",
+    "pattern": "9[0-9]{9}"
+  },
+  {
+    "name": "Rwanda",
+    "code": "RW",
+    "emoji": "🇷🇼",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/rw.svg",
+    "dialCodes": [
+      "+250"
+    ],
+    "slug": "rwanda",
+    "pattern": "7[0-9]{8}"
+  },
+  {
+    "name": "Saint Barthélemy",
+    "code": "BL",
+    "emoji": "🇧🇱",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bl.svg",
+    "slug": "saint-barthelemy",
+    "pattern": "[0-9]{9}"
+  },
+  {
+    "name": "Saint Helena",
+    "code": "SH",
+    "emoji": "🇸🇭",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sh.svg",
+    "dialCodes": [
+      "+290"
+    ],
+    "slug": "saint-helena",
+    "pattern": "[0-9]{4}"
+  },
+  {
+    "name": "Saint Kitts & Nevis",
+    "code": "KN",
+    "emoji": "🇰🇳",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/kn.svg",
+    "dialCodes": [
+      "+1869"
+    ],
+    "slug": "saint-kitts-and-nevis",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Saint Lucia",
+    "code": "LC",
+    "emoji": "🇱🇨",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/lc.svg",
+    "dialCodes": [
+      "+1 758"
+    ],
+    "slug": "saint-lucia",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Saint Martin",
+    "code": "MF",
+    "emoji": "🇲🇫",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mf.svg",
+    "slug": "saint-martin",
+    "pattern": "[0-9]{9}"
+  },
+  {
+    "name": "Saint Pierre & Miquelon",
+    "code": "PM",
+    "emoji": "🇵🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/pm.svg",
+    "dialCodes": [
+      "+508"
+    ],
+    "slug": "saint-pierre-and-miquelon",
+    "pattern": "[0-9]{6}"
+  },
+  {
+    "name": "Samoa",
+    "code": "WS",
+    "emoji": "🇼🇸",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ws.svg",
+    "dialCodes": [
+      "+685"
+    ],
+    "slug": "samoa",
+    "pattern": "[78][0-9]{6}"
+  },
+  {
+    "name": "San Marino",
+    "code": "SM",
+    "emoji": "🇸🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sm.svg",
+    "dialCodes": [
+      "+378"
+    ],
+    "slug": "san-marino",
+    "pattern": "6[0-9]{9}"
+  },
+  {
+    "name": "Sao Tome & Principe",
+    "code": "ST",
+    "emoji": "🇸🇹",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/st.svg",
+    "dialCodes": [
+      "+239"
+    ],
+    "slug": "sao-tome-and-principe",
+    "pattern": "9[0-9]{6}"
+  },
+  {
+    "name": "Saudi Arabia",
+    "code": "SA",
+    "emoji": "🇸🇦",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sa.svg",
+    "dialCodes": [
+      "+966"
+    ],
+    "slug": "saudi-arabia",
+    "pattern": "5[0-9]{8}"
+  },
+  {
+    "name": "Senegal",
+    "code": "SN",
+    "emoji": "🇸🇳",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sn.svg",
+    "dialCodes": [
+      "+221"
+    ],
+    "slug": "senegal",
+    "pattern": "7[0-9]{8}"
+  },
+  {
+    "name": "Serbia",
+    "code": "RS",
+    "emoji": "🇷🇸",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/rs.svg",
+    "dialCodes": [
+      "+381"
+    ],
+    "slug": "serbia",
+    "pattern": "6[0-9]{7,8}"
+  },
+  {
+    "name": "Seychelles",
+    "code": "SC",
+    "emoji": "🇸🇨",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sc.svg",
+    "dialCodes": [
+      "+248"
+    ],
+    "slug": "seychelles",
+    "pattern": "2[5-7][0-9]{5}"
+  },
+  {
+    "name": "Sierra Leone",
+    "code": "SL",
+    "emoji": "🇸🇱",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sl.svg",
+    "dialCodes": [
+      "+232"
+    ],
+    "slug": "sierra-leone",
+    "pattern": "[2379][0-9]{7}"
+  },
+  {
+    "name": "Singapore",
+    "code": "SG",
+    "emoji": "🇸🇬",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sg.svg",
+    "dialCodes": [
+      "+65"
+    ],
+    "slug": "singapore",
+    "pattern": "[89][0-9]{7}"
+  },
+  {
+    "name": "Sint Maarten",
+    "code": "SX",
+    "emoji": "🇸🇽",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sx.svg",
+    "dialCodes": [
+      "+1721"
+    ],
+    "slug": "sint-maarten",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Slovakia",
+    "code": "SK",
+    "emoji": "🇸🇰",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sk.svg",
+    "dialCodes": [
+      "+421"
+    ],
+    "slug": "slovakia",
+    "pattern": "9[0-9]{8}"
+  },
+  {
+    "name": "Slovenia",
+    "code": "SI",
+    "emoji": "🇸🇮",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/si.svg",
+    "dialCodes": [
+      "+386"
+    ],
+    "slug": "slovenia",
+    "pattern": "[0-9]{8}"
+  },
+  {
+    "name": "Solomon Islands",
+    "code": "SB",
+    "emoji": "🇸🇧",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sb.svg",
+    "dialCodes": [
+      "+677"
+    ],
+    "slug": "solomon-islands",
+    "pattern": "[0-9]{5}"
+  },
+  {
+    "name": "Somalia",
+    "code": "SO",
+    "emoji": "🇸🇴",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/so.svg",
+    "dialCodes": [
+      "+252"
+    ],
+    "slug": "somalia",
+    "pattern": "[6-9][0-9]{8}"
+  },
+  {
+    "name": "South Africa",
+    "code": "ZA",
+    "emoji": "🇿🇦",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/za.svg",
+    "dialCodes": [
+      "+27"
+    ],
+    "slug": "south-africa",
+    "pattern": "[6-8][0-9]{8}"
+  },
+  {
+    "name": "South Georgia & South Sandwich Islands",
+    "code": "GS",
+    "emoji": "🇬🇸",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gs.svg",
+    "slug": "south-georgia-and-south-sandwich-islands",
+    "pattern": "[0-9]{6}"
+  },
+  {
+    "name": "South Korea",
+    "code": "KR",
+    "emoji": "🇰🇷",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/kr.svg",
+    "dialCodes": [
+      "+82"
+    ],
+    "slug": "south-korea",
+    "pattern": "1[0-9]{9}"
+  },
+  {
+    "name": "South Sudan",
+    "code": "SS",
+    "emoji": "🇸🇸",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ss.svg",
+    "dialCodes": [
+      "+211"
+    ],
+    "slug": "south-sudan",
+    "pattern": "9[0-9]{8}"
+  },
+  {
+    "name": "Spain",
+    "code": "ES",
+    "emoji": "🇪🇸",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/es.svg",
+    "dialCodes": [
+      "+34"
+    ],
+    "slug": "spain",
+    "pattern": "[67][0-9]{8}"
+  },
+  {
+    "name": "Sri Lanka",
+    "code": "LK",
+    "emoji": "🇱🇰",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/lk.svg",
+    "dialCodes": [
+      "+94"
+    ],
+    "slug": "sri-lanka",
+    "pattern": "7[0-9]{8}"
+  },
+  {
+    "name": "Sudan",
+    "code": "SD",
+    "emoji": "🇸🇩",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sd.svg",
+    "dialCodes": [
+      "+249"
+    ],
+    "slug": "sudan",
+    "pattern": "9[0-9]{8}"
+  },
+  {
+    "name": "Suriname",
+    "code": "SR",
+    "emoji": "🇸🇷",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sr.svg",
+    "dialCodes": [
+      "+597"
+    ],
+    "slug": "suriname",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Svalbard & Jan Mayen",
+    "code": "SJ",
+    "emoji": "🇸🇯",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sj.svg",
+    "slug": "svalbard-and-jan-mayen",
+    "pattern": "[0-9]{8}"
+  },
+  {
+    "name": "Sweden",
+    "code": "SE",
+    "emoji": "🇸🇪",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/se.svg",
+    "dialCodes": [
+      "+46"
+    ],
+    "slug": "sweden",
+    "pattern": "7[0-9]{8}"
+  },
+  {
+    "name": "Switzerland",
+    "code": "CH",
+    "emoji": "🇨🇭",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ch.svg",
+    "dialCodes": [
+      "+41"
+    ],
+    "slug": "switzerland",
+    "pattern": "7[6-9][0-9]{7}"
+  },
+  {
+    "name": "Syria",
+    "code": "SY",
+    "emoji": "🇸🇾",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sy.svg",
+    "dialCodes": [
+      "+963"
+    ],
+    "slug": "syria",
+    "pattern": "9[0-9]{8}"
+  },
+  {
+    "name": "Taiwan",
+    "code": "TW",
+    "emoji": "🇹🇼",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/tw.svg",
+    "dialCodes": [
+      "+886"
+    ],
+    "slug": "taiwan",
+    "pattern": "[0-9]{9}"
+  },
+  {
+    "name": "Tajikistan",
+    "code": "TJ",
+    "emoji": "🇹🇯",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/tj.svg",
+    "dialCodes": [
+      "+992"
+    ],
+    "slug": "tajikistan",
+    "pattern": "[9][0-9]{8}"
+  },
+  {
+    "name": "Tanzania",
+    "code": "TZ",
+    "emoji": "🇹🇿",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/tz.svg",
+    "dialCodes": [
+      "+255"
+    ],
+    "slug": "tanzania",
+    "pattern": "7[0-9]{8}"
+  },
+  {
+    "name": "Thailand",
+    "code": "TH",
+    "emoji": "🇹🇭",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/th.svg",
+    "dialCodes": [
+      "+66"
+    ],
+    "slug": "thailand",
+    "pattern": "[6-9][0-9]{8}"
+  },
+  {
+    "name": "Timor-Leste",
+    "code": "TL",
+    "emoji": "🇹🇱",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/tl.svg",
+    "dialCodes": [
+      "+670"
+    ],
+    "slug": "timor-leste",
+    "pattern": "[0-9]{7,8}"
+  },
+  {
+    "name": "Togo",
+    "code": "TG",
+    "emoji": "🇹🇬",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/tg.svg",
+    "dialCodes": [
+      "+228"
+    ],
+    "slug": "togo",
+    "pattern": "9[0-9]{7}"
+  },
+  {
+    "name": "Tokelau",
+    "code": "TK",
+    "emoji": "🇹🇰",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/tk.svg",
+    "dialCodes": [
+      "+690"
+    ],
+    "slug": "tokelau",
+    "pattern": "[0-9]{4}"
+  },
+  {
+    "name": "Tonga",
+    "code": "TO",
+    "emoji": "🇹🇴",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/to.svg",
+    "dialCodes": [
+      "+676"
+    ],
+    "slug": "tonga",
+    "pattern": "[78][0-9]{6}"
+  },
+  {
+    "name": "Trinidad & Tobago",
+    "code": "TT",
+    "emoji": "🇹🇹",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/tt.svg",
+    "dialCodes": [
+      "+1868"
+    ],
+    "slug": "trinidad-and-tobago",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Tunisia",
+    "code": "TN",
+    "emoji": "🇹🇳",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/tn.svg",
+    "dialCodes": [
+      "+216"
+    ],
+    "slug": "tunisia",
+    "pattern": "[2459][0-9]{7}"
+  },
+  {
+    "name": "Turkey",
+    "code": "TR",
+    "emoji": "🇹🇷",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/tr.svg",
+    "dialCodes": [
+      "+90"
+    ],
+    "slug": "turkey",
+    "pattern": "5[0-9]{9}"
+  },
+  {
+    "name": "Turkmenistan",
+    "code": "TM",
+    "emoji": "🇹🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/tm.svg",
+    "dialCodes": [
+      "+993"
+    ],
+    "slug": "turkmenistan",
+    "pattern": "6[0-9]{7}"
+  },
+  {
+    "name": "Turks & Caicos Islands",
+    "code": "TC",
+    "emoji": "🇹🇨",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/tc.svg",
+    "dialCodes": [
+      "+1 649"
+    ],
+    "slug": "turks-and-caicos-islands",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Tuvalu",
+    "code": "TV",
+    "emoji": "🇹🇻",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/tv.svg",
+    "dialCodes": [
+      "+688"
+    ],
+    "slug": "tuvalu",
+    "pattern": "[0-9]{5}"
+  },
+  {
+    "name": "Uganda",
+    "code": "UG",
+    "emoji": "🇺🇬",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ug.svg",
+    "dialCodes": [
+      "+256"
+    ],
+    "slug": "uganda",
+    "pattern": "7[0-9]{8}"
+  },
+  {
+    "name": "Ukraine",
+    "code": "UA",
+    "emoji": "🇺🇦",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ua.svg",
+    "dialCodes": [
+      "+380"
+    ],
+    "slug": "ukraine",
+    "pattern": "[5-9][0-9]{8}"
+  },
+  {
+    "name": "United Arab Emirates",
+    "code": "AE",
+    "emoji": "🇦🇪",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ae.svg",
+    "dialCodes": [
+      "+971"
+    ],
+    "slug": "united-arab-emirates",
+    "pattern": "[0-9]{9}"
+  },
+  {
+    "name": "United Kingdom",
+    "code": "GB",
+    "emoji": "🇬🇧",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gb.svg",
+    "dialCodes": [
+      "+44"
+    ],
+    "slug": "united-kingdom",
+    "pattern": "7[0-9]{9}"
+  },
+  {
+    "name": "United States",
+    "code": "US",
+    "emoji": "🇺🇸",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/us.svg",
+    "dialCodes": [
+      "+1"
+    ],
+    "slug": "united-states",
+    "pattern": "[2-9][0-9]{9}"
+  },
+  {
+    "name": "Uruguay",
+    "code": "UY",
+    "emoji": "🇺🇾",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/uy.svg",
+    "dialCodes": [
+      "+598"
+    ],
+    "slug": "uruguay",
+    "pattern": "9[0-9]{7}"
+  },
+  {
+    "name": "Uzbekistan",
+    "code": "UZ",
+    "emoji": "🇺🇿",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/uz.svg",
+    "dialCodes": [
+      "+998"
+    ],
+    "slug": "uzbekistan",
+    "pattern": "9[0-9]{8}"
+  },
+  {
+    "name": "Vanuatu",
+    "code": "VU",
+    "emoji": "🇻🇺",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/vu.svg",
+    "dialCodes": [
+      "+678"
+    ],
+    "slug": "vanuatu",
+    "pattern": "[578][0-9]{6}"
+  },
+  {
+    "name": "Vatican City",
+    "code": "VA",
+    "emoji": "🇻🇦",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/va.svg",
+    "dialCodes": [
+      "+379"
+    ],
+    "slug": "vatican-city",
+    "pattern": "[0-9]{10}"
+  },
+  {
+    "name": "Venezuela",
+    "code": "VE",
+    "emoji": "🇻🇪",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ve.svg",
+    "dialCodes": [
+      "+58"
+    ],
+    "slug": "venezuela",
+    "pattern": "4[0-9]{9}"
+  },
+  {
+    "name": "Vietnam",
+    "code": "VN",
+    "emoji": "🇻🇳",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/vn.svg",
+    "dialCodes": [
+      "+84"
+    ],
+    "slug": "vietnam",
+    "pattern": "[3589][0-9]{8}"
+  },
+  {
+    "name": "Wallis & Futuna",
+    "code": "WF",
+    "emoji": "🇼🇫",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/wf.svg",
+    "dialCodes": [
+      "+681"
+    ],
+    "slug": "wallis-and-futuna",
+    "pattern": "[0-9]{6}"
+  },
+  {
+    "name": "American Samoa",
+    "code": "AS",
+    "emoji": "🇦🇸",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/as.svg",
+    "dialCodes": [
+      "+1-684"
+    ],
+    "slug": "american-samoa",
+    "pattern": "\\d{7}"
+  },
+  {
+    "name": "M'Sila, Algeria",
+    "code": "DZ",
+    "emoji": "🇩🇿",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/dz.svg",
+    "dialCodes": [
+      "+213"
+    ],
+    "slug": "msila-algeria",
+    "pattern": "\\d{8}"
+  },
+  {
+    "name": "North Macedonia",
+    "code": "MK",
+    "emoji": "🇲🇰",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mk.svg",
+    "dialCodes": [
+      "+389"
+    ],
+    "slug": "north-macedonia",
+    "pattern": "7[0-9]{7}"
+  },
+  {
+    "name": "Netherlands Antilles",
+    "code": "AN",
+    "emoji": "🇦🇳",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/an.svg",
+    "dialCodes": [],
+    "slug": "netherlands-antilles",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Saint Thomas, U.S. Virgin Islands",
+    "code": "VI",
+    "emoji": "🇻🇮",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/vi.svg",
+    "dialCodes": [
+      "+1-340"
+    ],
+    "slug": "saint-thomas-us-virgin-islands",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "code": "VC",
+    "emoji": "🇻🇨",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/vc.svg",
+    "dialCodes": [
+      "+1-784"
+    ],
+    "slug": "saint-vincent-and-the-grenadines",
+    "pattern": "\\d{7}"
+  },
+  {
+    "name": "United States of America",
+    "code": "US",
+    "emoji": "🇺🇸",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/us.svg",
+    "dialCodes": [
+      "+1"
+    ],
+    "slug": "united-states",
+    "pattern": "[2-9][0-9]{2}[2-9][0-9]{6}"
+  },
+  {
+    "name": "British Virgin Islands",
+    "code": "VG",
+    "emoji": "🇻🇬",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/vg.svg",
+    "dialCodes": [
+      "+1-284"
+    ],
+    "slug": "british-virgin-islands",
+    "pattern": "[0-9]{7}"
+  },
+  {
+    "name": "Western Sahara",
+    "code": "EH",
+    "emoji": "🇪🇭",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/eh.svg",
+    "dialCodes": [
+      "+212?"
+    ],
+    "slug": "western-sahara",
+    "pattern": "[0-9]{8}"
+  },
+  {
+    "name": "Yemen",
+    "code": "YE",
+    "emoji": "🇾🇪",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ye.svg",
+    "dialCodes": [
+      "+967"
+    ],
+    "slug": "yemen",
+    "pattern": "7[0-9]{8}"
+  },
+  {
+    "name": "Zambia",
+    "code": "ZM",
+    "emoji": "🇿🇲",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/zm.svg",
+    "dialCodes": [
+      "+260"
+    ],
+    "slug": "zambia",
+    "pattern": "9[567][0-9]{7}"
+  },
+  {
+    "name": "Zimbabwe",
+    "code": "ZW",
+    "emoji": "🇿🇼",
+    "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/zw.svg",
+    "dialCodes": [
+      "+263"
+    ],
+    "slug": "zimbabwe",
+    "pattern": "7[1-9][0-9]{7}"
+  }
+]
